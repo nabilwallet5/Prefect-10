@@ -1,0 +1,11 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/api/chat/create/route": "/api/chat/create",
+  "/api/chat/delete/route": "/api/chat/delete",
+  "/api/chat/get/route": "/api/chat/get",
+  "/api/chat/rename/route": "/api/chat/rename",
+  "/api/clerk/route": "/api/clerk",
+  "/favicon.ico/route": "/favicon.ico",
+  "/api/chat/ai/route": "/api/chat/ai",
+  "/page": "/"
+}
