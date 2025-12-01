@@ -1,15 +1,15 @@
 {
   "pages": {
     "/favicon.ico/route": [
-      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_57d40746._.js",
-      "static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js",
-      "static/chunks/node_modules_next_dist_compiled_next-devtools_index_a9cb0712.js",
-      "static/chunks/node_modules_next_dist_compiled_5150ccfd._.js",
-      "static/chunks/node_modules_next_dist_client_cf1d9188._.js",
-      "static/chunks/node_modules_next_dist_b0daae9a._.js",
-      "static/chunks/node_modules_@swc_helpers_cjs_b3dc30d6._.js",
-      "static/chunks/_a0ff3932._.js",
-      "static/chunks/turbopack-_cdba956c._.js"
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_d58ab954._.js",
+      "static/chunks/fb4dd_next_dist_compiled_react-dom_076697ce._.js",
+      "static/chunks/fb4dd_next_dist_compiled_next-devtools_index_d834684e.js",
+      "static/chunks/fb4dd_next_dist_compiled_69363b70._.js",
+      "static/chunks/fb4dd_next_dist_client_b38deef6._.js",
+      "static/chunks/fb4dd_next_dist_1047ff10._.js",
+      "static/chunks/fb4dd_@swc_helpers_cjs_81a7eeca._.js",
+      "static/chunks/PREFECT-10_a0ff3932._.js",
+      "static/chunks/turbopack-PREFECT-10_fbeb3784._.js"
     ]
   }
 }

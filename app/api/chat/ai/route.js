@@ -39,10 +39,10 @@ export async function POST(req){
 
         data.messages.push(userPrompt);
 
-        // Call the DeepSeek API to get a chat completion
+        // Call the DeepSeek API to get a chat completion with full message history
 
         const completion = await openai.chat.completions.create({
-            messages: [{ role: "user", content: prompt }],
+            messages: data.messages.map(msg => ({ role: msg.role, content: msg.content })),
             model: "deepseek-chat",
             store: true,
         });
